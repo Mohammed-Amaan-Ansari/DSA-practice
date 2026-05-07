@@ -1,4 +1,4 @@
-# 15. 3Sum
+#  3Sum
 
 Given an integer array nums, return all the triplets
 [nums[i], nums[j], nums[k]]

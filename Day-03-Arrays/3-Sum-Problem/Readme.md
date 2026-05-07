@@ -1,4 +1,4 @@
-# 15. 3Sum
+#  3Sum
 
 ## Problem
 Find all unique triplets in the array which gives the sum of zero.
